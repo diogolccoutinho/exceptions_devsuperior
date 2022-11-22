@@ -1,2 +1,7 @@
 # exceptions_devsuperior
-Aula sobre exceções curso java Udemy
+
+##Olá bem vindo ao repositório sobre exceções
+
+#Aula sobre exceções curso formação java - Udemy - Professor Dr. Nélio Alves
+
+- 1º versão - Solução muito ruim - Tratamento de exceções no programa principal
